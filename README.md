@@ -8,8 +8,9 @@ Sou um entusiasta da programação/desenvolvimento, apaixonado por Front-End, co
 - Línguas: [Português (nativo), Inglês (fluente), Espanhol (avançado), Francês e Italiano (básicos)]
 - Ferramentas: [Visual Studio Code e Wordpress]
 
-## Projetos
+## Projetos e portfólio
 - [HackAgenda](https://hackagenda.com.br): Agenda de eventos hackers e de tecnologia pelo Brasil.
+- [Portfólio](https://memeco.github.io/): Portfólio no GitHub Pages.
 
 ## Contato
 - E-mail: [emerson.pedro@alumni.usp.br]
