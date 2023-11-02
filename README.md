@@ -5,7 +5,7 @@ Sou um entusiasta da programação, apaixonado por Front-End, como React, por ex
 
 ## Habilidades
 - Linguagens: [HTML 5, CSS 3, JavaScript e React, TypeScript e Angular, Python e Java]
-- Ferramentas: [Visual Studio Code]
+- Ferramentas: [Visual Studio Code e Wordpress]
 
 ## Projetos
 - [HackAgenda](https://hackagenda.com.br): Agenda de eventos hackers e de tecnologia pelo Brasil.
