@@ -4,7 +4,8 @@
 Sou um entusiasta da programação, apaixonado por Front-End, como React, por exemplo. Estou sempre em busca de aprender coisas novas e contribuir para projetos interessantes.
 
 ## Habilidades
-- Linguagens: [HTML 5, CSS 3, JavaScript e React, TypeScript e Angular, Python e Java]
+- Linguagens de programação: [HTML 5, CSS 3, JavaScript e React, TypeScript e Angular, Python e Java]
+- Linguagens: [Inglês (fluente), Espanhol (avançado), Francês e Italiano (básicos)]
 - Ferramentas: [Visual Studio Code e Wordpress]
 
 ## Projetos
@@ -12,8 +13,9 @@ Sou um entusiasta da programação, apaixonado por Front-End, como React, por ex
 
 ## Contato
 - E-mail: [contato@hackagenda.com.br]
+- Facebook: [https://fb.com/emersonmp]
 - Twitter: [https://twitter.com/HackAgenda]
-- Website: [www.HackAgenda.com.br]
+- LinkedIn: [https://www.linkedin.com/in/emersonmp/]
 
 Sinta-se à vontade para entrar em contato comigo!
 
