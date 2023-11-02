@@ -5,7 +5,7 @@ Sou um entusiasta da programação, apaixonado por Front-End, como React, por ex
 
 ## Habilidades
 - Linguagens de programação: [HTML 5, CSS 3, JavaScript e React, TypeScript e Angular, Python e Java]
-- Linguagens: [Inglês (fluente), Espanhol (avançado), Francês e Italiano (básicos)]
+- Línguas: [Português (nativo), Inglês (fluente), Espanhol (avançado), Francês e Italiano (básicos)]
 - Ferramentas: [Visual Studio Code e Wordpress]
 
 ## Projetos
