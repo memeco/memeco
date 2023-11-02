@@ -12,7 +12,7 @@ Sou um entusiasta da programação/desenvolvimento, apaixonado por Front-End, co
 - [HackAgenda](https://hackagenda.com.br): Agenda de eventos hackers e de tecnologia pelo Brasil.
 
 ## Contato
-- E-mail: [contato@hackagenda.com.br]
+- E-mail: [emerson.pedro@alumni.usp.br]
 - Facebook: [https://fb.com/emersonmp]
 - Twitter: [https://twitter.com/HackAgenda]
 - LinkedIn: [https://www.linkedin.com/in/emersonmp/]
