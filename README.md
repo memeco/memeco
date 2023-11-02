@@ -1,16 +1,19 @@
-### Hi there 👋
+# Olá, eu sou Emerson Marques Pedro
 
-<!--
-**memeco/memeco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Sou um entusiasta da programação, apaixonado por Front-End, como React, por exemplo. Estou sempre em busca de aprender coisas novas e contribuir para projetos interessantes.
 
-Here are some ideas to get you started:
+## Habilidades
+- Linguagens: [HTML 5, CSS 3, JavaScript e React, TypeScript e Angular, Python e Java]
+- Ferramentas: [Visual Studio Code]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+- [HackAgenda](https://hackagenda.com.br): Agenda de eventos hackers e de tecnologia pelo Brasil.
+
+## Contato
+- E-mail: [contato@hackagenda.com.br]
+- Twitter: [https://twitter.com/HackAgenda]
+- Website: [www.HackAgenda.com.br]
+
+Sinta-se à vontade para entrar em contato comigo!
+
