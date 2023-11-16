@@ -16,7 +16,7 @@ Sou um entusiasta da programação/desenvolvimento, apaixonado por Front-End, co
 - E-mail: [emerson.pedro@alumni.usp.br]
 - LinkedIn: [https://www.linkedin.com/in/emersonmp/]
 - Facebook: [https://fb.me/emersonmp]
-- Instagram: [https://instagram.com/memeco]
+- Instagram: [https://instagram.com/meme.co]
 - Twitter: [https://twitter.com/HackAgenda]
 - Last.fm: [https://www.last.fm/user/memeco]
 
