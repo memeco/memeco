@@ -1,4 +1,4 @@
-# Olá, eu sou Emerson Marques Pedro (Memeco) 🖐️
+# Olá, eu sou Emerson Marques Pedro (Memeco) 🖐
 
 ## Sobre mim
 Sou um entusiasta da programação/desenvolvimento, apaixonado por Front-End, como React, por exemplo. Estou sempre em busca de aprender coisas novas e contribuir para projetos interessantes.
