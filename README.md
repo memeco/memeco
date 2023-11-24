@@ -5,7 +5,7 @@ Sou um entusiasta da programação/desenvolvimento, apaixonado por Front-End, co
 
 [![Estatísticas do GitHub de Memeco](https://github-readme-stats.vercel.app/api?username=memeco&locale=pt-br&theme=dark&title_color=007ACC&show_icons=true)](https://github.com/memeco/github-readme-stats)
 
-## Tecnologias que eu uso no meu dia a dia:
+## Tecnologias que uso no meu dia-aa-dia:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) ![CSS3](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
 
