@@ -14,7 +14,7 @@ Sou um entusiasta da programação/desenvolvimento, apaixonado por Front-End, co
 
 ## Projetos e portfólio:
 - [HackAgenda](https://hackagenda.com.br): Agenda de eventos hackers e de tecnologia pelo Brasil.
-- [Portfólio](https://memeco.github.io/): Portfólio no GitHub Pages com React.
+- [Portfólio](https://memeco.github.io/): Portfólio no GitHub Pages em React.
 
 ## Contato:
 - E-mail: [emerson.pedro@alumni.usp.br]
