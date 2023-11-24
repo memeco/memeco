@@ -3,7 +3,7 @@
 ## Sobre mim:
 Sou um entusiasta da programação/desenvolvimento, apaixonado por Front-End, como React, por exemplo. Estou sempre em busca de aprender coisas novas e contribuir para projetos interessantes.
 
-[![Estatísticas do GitHub de Memeco](https://github-readme-stats.vercel.app/api?username=memeco&locale=pt-br&theme=merko)](https://github.com/memeco/github-readme-stats)-
+[![Estatísticas do GitHub de Memeco](https://github-readme-stats.vercel.app/api?username=memeco&locale=pt-br&theme=dark)](https://github.com/memeco/github-readme-stats)
 
 ## Habilidades:
 - Linguagens de programação: [HTML 5, CSS 3, JavaScript e React, TypeScript e Angular, Python e Java]
