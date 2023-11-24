@@ -1,7 +1,7 @@
 # Olá, eu sou Emerson Marques Pedro (Memeco) 🖐
 
 ## Sobre mim:
-Sou um entusiasta da programação/desenvolvimento, apaixonado por Front-End, como React, por exemplo. Estou sempre em busca de aprender coisas novas e contribuir para projetos interessantes que me interessam.
+Sou um entusiasta da programação/desenvolvimento, apaixonado por Front-End e cursando para ser Dev Full-Stack. Estou sempre em busca de aprender coisas novas e contribuir para projetos interessantes que me interessam.
 
 [![Estatísticas do GitHub de Memeco](https://github-readme-stats.vercel.app/api?username=memeco&locale=pt-br&theme=dark&title_color=007ACC&show_icons=true)](https://github.com/memeco/github-readme-stats)
 
