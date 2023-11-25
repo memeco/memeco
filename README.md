@@ -14,7 +14,7 @@ Sou um entusiasta da programação, apaixonado por Front-End e cursando para ser
 Português (nativo), Inglês (fluente), Espanhol (avançado), Francês e Italiano (básicos).
 
 ## Projetos e portfólio:
-- [HackAgenda](https://hackagenda.com.br): Agenda de eventos hackers e de tecnologia pelo Brasil.
+- [HackAgenda](https://hackagenda.com.br): Agenda de eventos hackers e de tecnologia pelo Brasil em WordPress.
 - [Portfólio](https://memeco.github.io/): Portfólio no GitHub Pages em React.
 
 ## Contato:
