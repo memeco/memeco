@@ -25,6 +25,7 @@ Português (nativo), Inglês (fluente), Espanhol (avançado), Francês e Italian
 - Instagram: [https://instagram.com/meme.co]
 - Twitter: [https://twitter.com/HackAgenda]
 - Last.fm: [https://www.last.fm/user/memeco]
+- Setlist.fm: [https://www.setlist.fm/user/memeco]
 
 Sinta-se à vontade para entrar em contato comigo!
 
