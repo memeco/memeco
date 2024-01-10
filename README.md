@@ -1,4 +1,5 @@
-# Olá, eu sou Emerson Marques Pedro (Memeco) 🖐
+# Olá, eu sou Emerson Marques Pedro (Memeco) 🖐![Imagem de Brasil(https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png?v8)
+
 
 ## Sobre mim:
 Sou um entusiasta da programação, apaixonado por Front-End e cursando para ser desenvolvedor Full-Stack. Estou sempre em busca de aprender coisas novas e contribuir para projetos que provocam a minha curiosidade e me interessam.
