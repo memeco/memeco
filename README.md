@@ -5,6 +5,8 @@ Sou um entusiasta da programação, apaixonado por Front-End e cursando para ser
 
 
 [![Estatísticas do GitHub de Memeco](https://github-readme-stats.vercel.app/api?username=memeco&locale=pt-br&theme=dark&title_color=007ACC&show_icons=true)](https://github.com/memeco/github-readme-stats)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=memeco&layout=compact&theme=vue)
+
 
 ## Tecnologias que uso no meu dia-a-dia:
 
