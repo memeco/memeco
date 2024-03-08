@@ -1,4 +1,4 @@
-# Olá, eu sou Emerson Marques Pedro (Memeco) 🖐![Imagem de bandeira](https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png?v8) :brazil: :portugal:
+# Olá, eu sou Emerson Marques Pedro (Memeco) 🖐 :brazil: :portugal:
 
 
 ## Sobre mim:
