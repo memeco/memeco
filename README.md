@@ -1,4 +1,4 @@
-# Olá, eu sou Emerson Marques Pedro (Memeco) 🖐![Imagem de bandeira](https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png?v8)![Bandeira de Portugal](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/microsoft/209/flag-portugal_1f1f5-1f1f9.png)
+# Olá, eu sou Emerson Marques Pedro (Memeco) 🖐![Imagem de bandeira](https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png?v8)
 
 
 ## Sobre mim:
