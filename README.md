@@ -34,6 +34,7 @@ Português (nativo), Inglês (fluente), Espanhol (avançado), Francês e Italian
 - Facebook: [https://fb.me/emersonmp]
 - Instagram: [https://instagram.com/meme.co]
 - Twitter: [https://twitter.com/HackAgenda]
+- GitHub: [https://github.io/memeco]
 - Last.fm: [https://www.last.fm/user/memeco]
 - Setlist.fm: [https://www.setlist.fm/user/memeco]
 
