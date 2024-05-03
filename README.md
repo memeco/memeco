@@ -30,6 +30,7 @@ Português (nativo), Inglês (fluente), Espanhol (avançado), Francês e Italian
 ## Contato:
 - E-mail: [emerson.pedro@alumni.usp.br]
 - LinkedIn: [https://www.linkedin.com/in/emersonmp/]
+- HackAgenda: [https://www.HackAgenda.com.br]
 - Dev.To: [https://dev.to/memeco]
 - Facebook: [https://fb.me/emersonmp]
 - Instagram: [https://instagram.com/meme.co]
