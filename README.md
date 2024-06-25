@@ -24,6 +24,7 @@ Sou um entusiasta e estudante de programação, apaixonado por Front-End e cursa
 
 
 ## Línguas: 
+
 Português (nativo), Inglês (fluente), Espanhol (avançado), Francês e Italiano (básicos).
 
 ## Projetos e portfólio:
@@ -32,7 +33,7 @@ Português (nativo), Inglês (fluente), Espanhol (avançado), Francês e Italian
 
 ## Curriculum Vitae:
 
-[Veja aqui](https://github.com/memeco/memeco.github.io/blob/gh-pages/Emerson_Marques_Pedro_CV_2024-PTBr.pdf)
+- [Veja aqui](https://github.com/memeco/memeco.github.io/blob/gh-pages/Emerson_Marques_Pedro_CV_2024-PTBr.pdf)
 
 ## Contato:
 - E-mail: [emerson.pedro@alumni.usp.br]
