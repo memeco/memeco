@@ -32,7 +32,7 @@ Português (nativo), Inglês (fluente), Espanhol (avançado), Francês e Italian
 
 ## Curriculum Vitae:
 
-Veja aqui [**aqui**]([https://github.com/memeco/memeco.github.io/blob/gh-pages/Emerson_Marques_Pedro_CV_2024-PTBr.pdf], "Veja aqui")
+[Veja aqui](https://github.com/memeco/memeco.github.io/blob/gh-pages/Emerson_Marques_Pedro_CV_2024-PTBr.pdf)
 
 ## Contato:
 - E-mail: [emerson.pedro@alumni.usp.br]
