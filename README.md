@@ -31,7 +31,7 @@ Português (nativo), Inglês (fluente), Espanhol (avançado), Francês e Italian
 - [HackAgenda](https://hackagenda.com.br): Agenda de eventos hackers e de tecnologia pelo Brasil em WordPress.
 - [Portfólio](https://memeco.github.io/): https://memeco.github.io/ Portfólio no GitHub Pages em React e Bootstrap.
 
-## Curriculum Vitae:
+## Curriculum Vitae 2024:
 
 - [Veja aqui](https://github.com/memeco/memeco.github.io/blob/gh-pages/Emerson_Marques_Pedro_CV_2024-PTBr.pdf)
 
