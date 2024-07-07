@@ -5,13 +5,9 @@
 Sou um entusiasta e estudante de programação, apaixonado por Front-End e cursando para ser desenvolvedor Full Stack e analista de nuvem e IA. Estou sempre em busca de aprender coisas novas e contribuir para projetos que provocam a minha curiosidade e me interessam.
 
 
-[![Estatísticas do GitHub de Memeco](https://github-readme-stats.vercel.app/api?username=memeco&locale=pt-br&theme=dark&title_color=007ACC&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Memeco's GitHub stats](https://github-readme-stats.vercel.app/api?username=memeco&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=memeco&locale=pt-br&layout=compact&langs_count=8&theme=dracula)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=memeco&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=memeco&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tecnologias que uso no meu dia-a-dia:
