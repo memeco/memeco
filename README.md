@@ -10,6 +10,10 @@ Sou um entusiasta e estudante de programação, apaixonado por Front-End e cursa
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=memeco&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=memeco&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Tecnologias que uso no meu dia-a-dia:
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
