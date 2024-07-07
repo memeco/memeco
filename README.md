@@ -21,6 +21,7 @@ Sou um entusiasta e estudante de programação, apaixonado por Front-End e cursa
 
 
 
+[![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 
 
 
