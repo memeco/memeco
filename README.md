@@ -1,4 +1,4 @@
-# Olá, eu sou Emerson Marques Pedro (Memeco) 🖐 :brazil: :portugal:
+# Olá, eu sou Emerson Marques Pedro (Memeco) ♿ 🖐 :brazil: :portugal:
 
 
 ## Sobre mim:
