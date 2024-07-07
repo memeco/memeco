@@ -20,9 +20,6 @@ Sou um entusiasta e estudante de programação, apaixonado por Front-End e cursa
 
 
 
-[![Express.js](https://img.shields.io/badge/Express.js-4.x-green.svg?style=flat-square)](https://expressjs.com/)
-
-
 ## Línguas: 
 
 Português (nativo), Inglês (fluente), Espanhol (avançado), Francês e Italiano (básicos).
