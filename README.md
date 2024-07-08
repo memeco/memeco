@@ -10,6 +10,10 @@ Sou um entusiasta e estudante de programação, apaixonado por Front-End e cursa
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=memeco&locale=pt-br&layout=compact&langs_count=8&theme=dracula)
 
 
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=memeco&repo=github-visitors-badge&countColor=%237B1E7A)
+
+
 ## Tecnologias que uso no meu dia-a-dia:
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
@@ -20,8 +24,6 @@ Sou um entusiasta e estudante de programação, apaixonado por Front-End e cursa
  [![Kali Linux](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/) [![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/u/emersonmp/boards) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/memeco) [![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/) [![AWS](https://img.shields.io/badge/AWS-Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
 
-
-![](https://api.visitorbadge.io/api/VisitorHit?user=memeco&repo=github-visitors-badge&countColor=%237B1E7A)
 
 ## Línguas: 
 
