@@ -21,7 +21,7 @@ Sou um entusiasta e estudante de programação, apaixonado por Front-End e cursa
 
 
 
-
+![](https://api.visitorbadge.io/api/VisitorHit?user=memeco&repo=github-visitors-badge&countColor=%237B1E7A)
 
 ## Línguas: 
 
