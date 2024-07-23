@@ -7,7 +7,7 @@ Sou um entusiasta e estudante de programação, apaixonado por Front-End e cursa
 
 
 [![Memeco's GitHub stats](https://github-readme-stats.vercel.app/api?username=memeco&&locale=pt-br&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgundim&locale=pt-br&theme=dracula)](https://github.com/memeco/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memeco&locale=pt-br&theme=dracula)](https://github.com/memeco/github-readme-stats)
 
 
 
