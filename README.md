@@ -4,6 +4,7 @@
 ## Sobre mim:
 Sou um entusiasta e estudante de programação, apaixonado por Front-End, analista de nuvem (Azure), Python e IA e cursando para ser desenvolvedor Full Stack. Estou sempre em busca de aprender coisas novas e contribuir para projetos que provocam a minha curiosidade e me interessam.
 
+Tenho um site, www.hackagenda.com.br agenda de eventos tecnológicos/hackers.
 
 
 [![Memeco's GitHub stats](https://github-readme-stats.vercel.app/api?username=memeco&&locale=pt-br&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
