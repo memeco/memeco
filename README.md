@@ -67,7 +67,9 @@ Tenho um site, www.hackagenda.com.br agenda de eventos tecnológicos/hackers.
 </a>
 
 
-[![AWS](https://img.shields.io/badge/AWS-Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+<a href="https://aws.amazon.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="32" height="32" />
+</a>
 
 ## Línguas:
 
