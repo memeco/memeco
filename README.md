@@ -62,7 +62,10 @@ Tenho um site, www.hackagenda.com.br agenda de eventos tecnológicos/hackers.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/memeco)
 
-[![Azure](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg)](https://azure.microsoft.com/)
+<a href="https://azure.microsoft.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="32" height="32" />
+</a>
+
 
 [![AWS](https://img.shields.io/badge/AWS-Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
