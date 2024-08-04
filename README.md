@@ -61,7 +61,7 @@ Tenho um site, www.hackagenda.com.br agenda de eventos tecnológicos/hackers.
 [![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/u/emersonmp/boards)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/memeco)
-
+<br>
 <a href="https://azure.microsoft.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="32" height="32" />
 </a>
