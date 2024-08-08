@@ -85,7 +85,7 @@ Português (nativo), Inglês (fluente), Espanhol (avançado), Francês e Italian
 - [Veja aqui](https://github.com/memeco/memeco.github.io/blob/gh-pages/Emerson_Marques_Pedro_CV_2024-PTBr.pdf)
 
 ## Contato:
-- E-mail: [emerson.pedro@alumni.usp.br]
+- E-mail: emerson.pedro[at]alumni.usp.br
 - LinkedIn: [https://www.linkedin.com/in/emersonmp/]
 - HackAgenda: [https://www.HackAgenda.com.br]
 - Dev.To: [https://dev.to/memeco]
