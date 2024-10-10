@@ -97,3 +97,5 @@ Português (nativo), Inglês (fluente), Espanhol (avançado), Francês e Italian
 - Setlist.fm: [https://www.setlist.fm/user/memeco]
 
 Sinta-se à vontade para entrar em contato comigo!
+
+Envie um e-mail para emerson.pedro[at]alumni[dot]usp[dot]br
