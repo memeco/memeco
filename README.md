@@ -78,7 +78,7 @@ Português (nativo), Inglês (fluente), Espanhol (avançado), Francês e Italian
 ## Projetos e portfólio:
 - [HackAgenda](https://hackagenda.com.br): Agenda de eventos hackers e de tecnologia pelo Brasil em WordPress.
 - [Portfólio](https://memeco-memeco-github-io.pages.dev/): Portfólio no GitHub Pages em React e Bootstrap.
-- https://memeco.com.br/
+- https://memeco.com.br/ Explicação do meu apelido
 
 ## Curriculum Vitae 2024:
 
