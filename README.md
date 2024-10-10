@@ -98,4 +98,4 @@ Português (nativo), Inglês (fluente), Espanhol (avançado), Francês e Italian
 
 Sinta-se à vontade para entrar em contato comigo!
 
-Envie um e-mail para emerson.pedro[at]alumni[dot]usp[dot]br
+Envie um e-mail para emerson[dot]pedro[at]alumni[dot]usp[dot]br
