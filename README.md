@@ -1,4 +1,4 @@
-# Olá, eu sou Emerson Marques Pedro (Memeco) ♿ 🖐 :brazil: :portugal:
+# Olá, eu sou Emerson (Memeco) Marques Pedro 🖐 :brazil: :portugal:
 
 ## Sobre mim:
 Sou um entusiasta e estudante de programação, apaixonado por Front-End, analista de nuvem (Azure), Python e IA e cursando para ser desenvolvedor Full Stack. Estou sempre em busca de aprender coisas novas e contribuir para projetos que provocam a minha curiosidade e me interessam.
